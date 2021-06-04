@@ -7,6 +7,6 @@
 <h6> He can be very needy at times, when he doesn't "get enough attention", according to him. </h6>
 <main> I'm a big believer in rescuing dogs, as opposed to (potentially) spending thousands of dollars buying one </main>
 <a href="BaileyandLuca.jpeg">
-<img alt="BaileyandLuca">
+<img alt="dog.html">
 <footer> Rachel Kirker Rhslate@aol.com </footer>
 </html>
