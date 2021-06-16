@@ -108,6 +108,6 @@ ANIMATION EFFECT
     
     }
     50% {
-        transition: translateY(330px);
+        transform: translateY(330px);
     }
 }
