@@ -70,7 +70,7 @@ h1 {
 .container .squares:nth-child(-n+4):hover {
     background-image: url("../images/icons/smileyface1.png");
     transform: scale(.5);
-    animation-name: bounce;
+    animation-name: race;
     animation-duration: 2.5s;
     animation-iteration-count: infinite;
     animation-timing-function: cubic-bezier(2.5,.2,.3,2);
